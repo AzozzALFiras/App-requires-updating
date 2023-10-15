@@ -1,3 +1,5 @@
+// Developer by : Azozz ALFiras
+
 class AppStoreInfoApp {
   async sentRequest(bundleid) {
     const response = await fetch(`http://itunes.apple.com/lookup?bundleId=${bundleid}`);
