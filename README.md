@@ -1,6 +1,7 @@
 # App requires updating
 Check the application in the App Store if it requires an update or not
 
+# How does it work? I will create an example in the language of PHP
 
 # First Import file AppStore_InfoApp.class.php
 ```PHP
